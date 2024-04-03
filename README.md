@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Okan
+- 👋 Hi
 - 🌱 I’m an alternate student in CyberSecurity
 - 📫 I’m currently learning I.T, Network, Security and Programming
 - 👀 LinkedIn
