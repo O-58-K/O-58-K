@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Okan
-- 👀 I’m interested in CyberSecurity
+- 🌱 I’m an alternate student in CyberSecurity
 - 📫 I’m currently learning I.T, Network, Security and Programming
-- 🌱 LinkedIn : Okan Tosun or https://www.linkedin.com/in/okantosun
+- 👀 LinkedIn
